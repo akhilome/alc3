@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+* From the lessons given on how to markup a webpage using HTML, I've learned, so far, that while marking up, every HMTL element used has a semantic meaning and that each element used for marking up my pages should be used like they were semantically meant to be.
+
+* Everything, so far, has been easy.
+
+* Like I mentioned above, nothing has been difficult so far.
+
+* I have, for the current mockup challenge I just completed, started referencing the HTML reference on MDN to get the correct element which would be best suited to each task I have at hand.
